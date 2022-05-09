@@ -6,6 +6,8 @@
 
               CREATE, READ, UPDATE AND DELETE (CRUD)
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+    
+    Referências: Professor Kane San Chan. Canal: Cursos do Kane Chan.
 
     A R N A L D O    F A G U N D E S
     Instagram: @arnaldofagundes_
