@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="429ab36d-903b-4f24-8b1c-8c16ebaad720" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/ancoron_postgresql_jpa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ancoron_postgresql_jpa.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.persistence-2.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.ancoron.postgresql.jpa-9.1.901.jdbc4.1-rc9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.eclipse.persistence.antlr-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.eclipse.persistence.asm-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.eclipse.persistence.core-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.eclipse.persistence.jpa-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.eclipse.persistence.osgi-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.eclipse.persistence.weaving-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/org.postgresql.net-9.1.901.jdbc4.1-rc9.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +135,7 @@
       <workItem from="1652104270070" duration="14583000" />
       <workItem from="1652125036202" duration="5584000" />
       <workItem from="1652132258401" duration="9000" />
-      <workItem from="1652132364091" duration="3838000" />
+      <workItem from="1652132364091" duration="4189000" />
     </task>
     <servers />
   </component>
