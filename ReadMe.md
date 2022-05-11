@@ -9,6 +9,20 @@
     
     Referências: Professor Kane San Chan. Canal: Cursos do Kane Chan.
 
+                ━━━━━━━━━━━━━ ⊙ ━━━━━━━━━━━━━
+
+    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+            I hope that with proper reading, it will
+        facilitate the learning of dozens, perhaps hundreds
+     of people who are in the initial steps of object-oriented
+                       programming in Java.
+
+              CREATE, READ, UPDATE AND DELETE (CRUD)
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+    
+    References: Professor Kane San Chan. Channel: Kane Chan Courses.
+
+
     A R N A L D O    F A G U N D E S
     Instagram: @arnaldofagundes_
     LinkedIn: arnaldo-fagundes
